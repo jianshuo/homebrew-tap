@@ -1,8 +1,8 @@
 class Ccglass < Formula
   desc "See what your coding agent sends to the model - logging proxy + dashboard"
   homepage "https://github.com/jianshuo/ccglass"
-  url "https://registry.npmjs.org/ccglass/-/ccglass-1.1.1.tgz"
-  sha256 "ec79a219b7de167db32cc2bf2436ed215c39f8219e31eadf9cf58b3a90a02b53"
+  url "https://registry.npmjs.org/ccglass/-/ccglass-1.1.2.tgz"
+  sha256 "f810434ac03265880bfcf769040af8ea31eff56280258346723eaa93bb7b0990"
   license "MIT"
 
   depends_on "node"
